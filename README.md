@@ -13,7 +13,8 @@
 * Coding a program directly into assembly language will save the time of translation from high-level languages and is also more memory-efficient. However, it is much more difficult to write code in asm as compared to high-level languages and is
 hence not a preferred option.
 * A typical assembly language instruction looks like this -
-      //add pic here
+![ASM instruction format](https://user-images.githubusercontent.com/78582744/130321917-3f6ad122-305c-4a3b-9cc9-d3487224025d.png)
+
 
 ## About Flex & Bison tools
 Flex and Bison are tools for building programs that handle structured input. They were originally tools for building compilers, but they have proven to be useful in many other areas.
